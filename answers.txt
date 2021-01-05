@@ -1,9 +1,6 @@
 Name:
 Banner #:
 
-Name of Partner (if permitted): 
-Banner # of Partner (if permitted):
-
 Place your answers to the questions from lab 1 here:
 
 a. How many versions of splat.py have been committed on this branch?
