@@ -1,3 +1,3 @@
-# lab1-w21
+# lab1
 
 Lab on git for 2134
