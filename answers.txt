@@ -32,7 +32,7 @@ Comment:A scanner for Splat
 
 c. Which class was added to splat.py before the current version? 
 
-Answer: no class was added before the current version, however the class IfExpr was added in the version HEAD^^ Commited to version before the previous one.
+Answer: no class was added before the current version, however the class IfExpr was added in the version  Commited before the previous one (HEAD^^).
 
 
 d. How many lines of code was the first commit of incremental/splat.py 
