@@ -1,27 +1,44 @@
-Name:
-Banner #:
+Name:Javier
+Banner #:B00935618
 
 Place your answers to the questions from lab 1 here:
 
 a. How many versions of splat.py have been committed on this branch?
 
-Answer: 
+Answer: There are 6 different versions of splat.py commited on this branch.
 
 
 b. For each of the commits, what was the date and the commit comment?
 
 Answer: 
+Date:   Sat Dec 14 11:21:32 2019 -0400
+Comment:Added conditionals to Splat
+
+Date:   Sat Dec 14 11:21:00 2019 -0400
+comment: Added functions to Splat
+
+Date:   Sat Dec 14 11:20:23 2019 -0400
+comment: Added variables for Splat
+
+Date:   Sat Dec 14 11:19:46 2019 -0400
+comment: Added basic evaluation for Splat
+
+Date:   Sat Dec 14 11:19:23 2019 -0400
+comment: Added a parser for Splat
+
+Date:   Sat Dec 14 11:18:58 2019 -0400
+Comment:A scanner for Splat
 
 
 c. Which class was added to splat.py before the current version? 
 
-Answer: 
+Answer: no class was added before the current version, however the class IfExpr was added in the version HEAD^^ Commited to version before the previous one.
 
 
 d. How many lines of code was the first commit of incremental/splat.py 
    (the scanner)?  
 
-Answer: 
+Answer: The first version commited (#2f9529b) has 131 lines of code.
 
 
 
