@@ -5,6 +5,7 @@ import splatlex
 import splatparse
 import splateval
 import splatref
+import splatlambda
 import sys 
 
 verbose = "-v" in sys.argv
