@@ -7,6 +7,7 @@ import splateval
 import splatref
 import splatlambda
 import splatselect
+import splatguard
 import sys 
 
 verbose = "-v" in sys.argv
